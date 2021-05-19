@@ -52,6 +52,7 @@ let l26 = myFriends.filter({$0.name.contains("Щ")})
 let l27 = myFriends.filter({$0.name.contains("Э")})
 let l28 = myFriends.filter({$0.name.contains("Ю")})
 let l29 = myFriends.filter({$0.name.contains("Я")})
+//1
 
 
 // Создаём массив nameArray в котором все имена будут рассортированы по имени
