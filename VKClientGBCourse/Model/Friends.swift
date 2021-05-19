@@ -18,7 +18,7 @@ struct Friend {
 }
 
 // Создаём пустой массив myFriends с типом данных Friend
-
+//2
 var myFriends:[Friend] = []
 
 // Делаем из массива myFriends выборку по первой букве фамилии(surname)
