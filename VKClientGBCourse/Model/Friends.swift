@@ -18,9 +18,9 @@ struct Friend {
 }
 
 // Создаём пустой массив myFriends с типом данных Friend
-//2
-var myFriends:[Friend] = []
 
+var myFriends:[Friend] = []
+//1
 // Делаем из массива myFriends выборку по первой букве фамилии(surname)
 
 let l1 = myFriends.filter({$0.name.contains("А")})
